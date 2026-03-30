@@ -1,0 +1,492 @@
+[
+    {
+        "nombre": "Santiago Volio",
+        "telefono": "88123401",
+        "email": "santiago.volio@ulead.ac.cr",
+        "edad": 19,
+        "residencia": "San José"
+    },
+    {
+        "nombre": "Andrés Volio",
+        "telefono": "88123402",
+        "email": "andres.volio@gmail.com",
+        "edad": 16,
+        "residencia": "Heredia"
+    },
+    {
+        "nombre": "Adriana Argüello",
+        "telefono": "88123403",
+        "email": "adriana.arguello@outlook.com",
+        "edad": 22,
+        "residencia": "Cartago"
+    },
+    {
+        "nombre": "Kenneth Baldi",
+        "telefono": "88123404",
+        "email": "kenneth.baldi@hotmail.com",
+        "edad": 27,
+        "residencia": "Alajuela"
+    },
+    {
+        "nombre": "Jaime Volio",
+        "telefono": "88123405",
+        "email": "jaime.volio@yahoo.com",
+        "edad": 26,
+        "residencia": "Guanacaste"
+    },
+    {
+        "nombre": "Jorge Álvarez",
+        "telefono": "88123406",
+        "email": "jorge.alvarez@icloud.com",
+        "edad": 23,
+        "residencia": "San José"
+    },
+    {
+        "nombre": "Alejandro Brenes",
+        "telefono": "88123407",
+        "email": "alejandro.brenes@anglo.ed.cr",
+        "edad": 25,
+        "residencia": "Limón"
+    },
+    {
+        "nombre": "Gastón Sancho",
+        "telefono": "88123408",
+        "email": "gaston.sancho@ulead.ac.cr",
+        "edad": 28,
+        "residencia": "Puntarenas"
+    },
+    {
+        "nombre": "Esteban Cruz",
+        "telefono": "88123409",
+        "email": "esteban.cruz@gmail.com",
+        "edad": 20,
+        "residencia": "Cartago"
+    },
+    {
+        "nombre": "Alejandro Ruiz",
+        "telefono": "88123410",
+        "email": "alejandro.ruiz@outlook.com",
+        "edad": 29,
+        "residencia": "Heredia"
+    },
+    {
+        "nombre": "Samuel Alpízar",
+        "telefono": "88123411",
+        "email": "samuel.alpizar@hotmail.com",
+        "edad": 22,
+        "residencia": "Alajuela"
+    },
+    {
+        "nombre": "Diego Díaz",
+        "telefono": "88123412",
+        "email": "diego.diaz@yahoo.com",
+        "edad": 24,
+        "residencia": "San José"
+    },
+    {
+        "nombre": "Julián Escalante",
+        "telefono": "88123413",
+        "email": "julian.escalante@icloud.com",
+        "edad": 21,
+        "residencia": "Guanacaste"
+    },
+    {
+        "nombre": "Julián Maroto",
+        "telefono": "88123414",
+        "email": "julian.maroto@anglo.ed.cr",
+        "edad": 23,
+        "residencia": "Cartago"
+    },
+    {
+        "nombre": "Luis Meza",
+        "telefono": "88123415",
+        "email": "luis.meza@ulead.ac.cr",
+        "edad": 30,
+        "residencia": "Heredia"
+    },
+    {
+        "nombre": "Berglioth Elbrecht",
+        "telefono": "88123416",
+        "email": "berglioth.elbrecht@gmail.com",
+        "edad": 27,
+        "residencia": "San José"
+    },
+    {
+        "nombre": "Lorena Volio",
+        "telefono": "88123417",
+        "email": "lorena.volio@outlook.com",
+        "edad": 25,
+        "residencia": "Alajuela"
+    },
+    {
+        "nombre": "Anna Lía Volio",
+        "telefono": "88123418",
+        "email": "anna.lia.volio@hotmail.com",
+        "edad": 19,
+        "residencia": "Cartago"
+    },
+    {
+        "nombre": "Carlos Volio",
+        "telefono": "88123419",
+        "email": "carlos.volio@yahoo.com",
+        "edad": 31,
+        "residencia": "Puntarenas"
+    },
+    {
+        "nombre": "Josué Padilla",
+        "telefono": "88123420",
+        "email": "josue.padilla@icloud.com",
+        "edad": 26,
+        "residencia": "Limón"
+    },
+    {
+        "nombre": "Mariana Solís",
+        "telefono": "88123421",
+        "email": "mariana.solis@anglo.ed.cr",
+        "edad": 22,
+        "residencia": "San José"
+    },
+    {
+        "nombre": "Daniel Quesada",
+        "telefono": "88123422",
+        "email": "daniel.quesada@ulead.ac.cr",
+        "edad": 28,
+        "residencia": "Heredia"
+    },
+    {
+        "nombre": "Valeria Jiménez",
+        "telefono": "88123423",
+        "email": "valeria.jimenez@gmail.com",
+        "edad": 20,
+        "residencia": "Cartago"
+    },
+    {
+        "nombre": "Pablo Vargas",
+        "telefono": "88123424",
+        "email": "pablo.vargas@outlook.com",
+        "edad": 27,
+        "residencia": "Alajuela"
+    },
+    {
+        "nombre": "Camila Rojas",
+        "telefono": "88123425",
+        "email": "camila.rojas@hotmail.com",
+        "edad": 24,
+        "residencia": "Guanacaste"
+    },
+    {
+        "nombre": "Sebastián Mora",
+        "telefono": "88123426",
+        "email": "sebastian.mora@yahoo.com",
+        "edad": 23,
+        "residencia": "San José"
+    },
+    {
+        "nombre": "Fernanda Pineda",
+        "telefono": "88123427",
+        "email": "fernanda.pineda@icloud.com",
+        "edad": 21,
+        "residencia": "Limón"
+    },
+    {
+        "nombre": "Ricardo Chaves",
+        "telefono": "88123428",
+        "email": "ricardo.chaves@anglo.ed.cr",
+        "edad": 29,
+        "residencia": "Puntarenas"
+    },
+    {
+        "nombre": "Natalia Murillo",
+        "telefono": "88123429",
+        "email": "natalia.murillo@ulead.ac.cr",
+        "edad": 26,
+        "residencia": "Heredia"
+    },
+    {
+        "nombre": "Gabriel Cordero",
+        "telefono": "88123430",
+        "email": "gabriel.cordero@gmail.com",
+        "edad": 22,
+        "residencia": "Cartago"
+    },
+    {
+        "nombre": "Paula Herrera",
+        "telefono": "88123431",
+        "email": "paula.herrera@outlook.com",
+        "edad": 25,
+        "residencia": "Alajuela"
+    },
+    {
+        "nombre": "Fabián Araya",
+        "telefono": "88123432",
+        "email": "fabian.araya@hotmail.com",
+        "edad": 30,
+        "residencia": "San José"
+    },
+    {
+        "nombre": "Daniela Castro",
+        "telefono": "88123433",
+        "email": "daniela.castro@yahoo.com",
+        "edad": 19,
+        "residencia": "Guanacaste"
+    },
+    {
+        "nombre": "José Ramírez",
+        "telefono": "88123434",
+        "email": "jose.ramirez@icloud.com",
+        "edad": 32,
+        "residencia": "Limón"
+    },
+    {
+        "nombre": "Lucía Méndez",
+        "telefono": "88123435",
+        "email": "lucia.mendez@anglo.ed.cr",
+        "edad": 23,
+        "residencia": "Cartago"
+    },
+    {
+        "nombre": "Mauricio Fonseca",
+        "telefono": "88123436",
+        "email": "mauricio.fonseca@ulead.ac.cr",
+        "edad": 28,
+        "residencia": "Puntarenas"
+    },
+    {
+        "nombre": "Andrea Salazar",
+        "telefono": "88123437",
+        "email": "andrea.salazar@gmail.com",
+        "edad": 24,
+        "residencia": "San José"
+    },
+    {
+        "nombre": "Kevin Navarro",
+        "telefono": "88123438",
+        "email": "kevin.navarro@outlook.com",
+        "edad": 21,
+        "residencia": "Heredia"
+    },
+    {
+        "nombre": "Tatiana Campos",
+        "telefono": "88123439",
+        "email": "tatiana.campos@hotmail.com",
+        "edad": 27,
+        "residencia": "Alajuela"
+    },
+    {
+        "nombre": "Cristian Villalobos",
+        "telefono": "88123440",
+        "email": "cristian.villalobos@yahoo.com",
+        "edad": 26,
+        "residencia": "San José"
+    },
+    {
+        "nombre": "Sofía Ureña",
+        "telefono": "88123441",
+        "email": "sofia.urena@icloud.com",
+        "edad": 20,
+        "residencia": "Cartago"
+    },
+    {
+        "nombre": "Manuel Leitón",
+        "telefono": "88123442",
+        "email": "manuel.leiton@anglo.ed.cr",
+        "edad": 31,
+        "residencia": "Guanacaste"
+    },
+    {
+        "nombre": "Elena Badilla",
+        "telefono": "88123443",
+        "email": "elena.badilla@ulead.ac.cr",
+        "edad": 22,
+        "residencia": "Limón"
+    },
+    {
+        "nombre": "Óscar Zúñiga",
+        "telefono": "88123444",
+        "email": "oscar.zuniga@gmail.com",
+        "edad": 29,
+        "residencia": "Heredia"
+    },
+    {
+        "nombre": "Melissa Carvajal",
+        "telefono": "88123445",
+        "email": "melissa.carvajal@outlook.com",
+        "edad": 25,
+        "residencia": "Puntarenas"
+    },
+    {
+        "nombre": "Bryan Céspedes",
+        "telefono": "88123446",
+        "email": "bryan.cespedes@hotmail.com",
+        "edad": 24,
+        "residencia": "Alajuela"
+    },
+    {
+        "nombre": "Karla Villalta",
+        "telefono": "88123447",
+        "email": "karla.villalta@yahoo.com",
+        "edad": 23,
+        "residencia": "San José"
+    },
+    {
+        "nombre": "Roberto Montero",
+        "telefono": "88123448",
+        "email": "roberto.montero@icloud.com",
+        "edad": 33,
+        "residencia": "Cartago"
+    },
+    {
+        "nombre": "Allison Madrigal",
+        "telefono": "88123449",
+        "email": "allison.madrigal@anglo.ed.cr",
+        "edad": 18,
+        "residencia": "Heredia"
+    },
+    {
+        "nombre": "Emilio Barrantes",
+        "telefono": "88123450",
+        "email": "emilio.barrantes@ulead.ac.cr",
+        "edad": 27,
+        "residencia": "Guanacaste"
+    },
+    {
+        "nombre": "María José León",
+        "telefono": "88123451",
+        "email": "mariajose.leon@gmail.com",
+        "edad": 22,
+        "residencia": "San José"
+    },
+    {
+        "nombre": "Héctor Brenes",
+        "telefono": "88123452",
+        "email": "hector.brenes@outlook.com",
+        "edad": 28,
+        "residencia": "Limón"
+    },
+    {
+        "nombre": "Paola Valverde",
+        "telefono": "88123453",
+        "email": "paola.valverde@hotmail.com",
+        "edad": 24,
+        "residencia": "Alajuela"
+    },
+    {
+        "nombre": "Leonardo Arce",
+        "telefono": "88123454",
+        "email": "leonardo.arce@yahoo.com",
+        "edad": 26,
+        "residencia": "Puntarenas"
+    },
+    {
+        "nombre": "Nicolás Segura",
+        "telefono": "88123455",
+        "email": "nicolas.segura@icloud.com",
+        "edad": 21,
+        "residencia": "Heredia"
+    },
+    {
+        "nombre": "Rebeca Coto",
+        "telefono": "88123456",
+        "email": "rebeca.coto@anglo.ed.cr",
+        "edad": 29,
+        "residencia": "Cartago"
+    },
+    {
+        "nombre": "Ignacio Prado",
+        "telefono": "88123457",
+        "email": "ignacio.prado@ulead.ac.cr",
+        "edad": 30,
+        "residencia": "San José"
+    },
+    {
+        "nombre": "Isabella Rentería",
+        "telefono": "88123458",
+        "email": "isabella.renteria@gmail.com",
+        "edad": 20,
+        "residencia": "Guanacaste"
+    },
+    {
+        "nombre": "Tomás Hidalgo",
+        "telefono": "88123459",
+        "email": "tomas.hidalgo@outlook.com",
+        "edad": 25,
+        "residencia": "Limón"
+    },
+    {
+        "nombre": "Verónica Ocampo",
+        "telefono": "88123460",
+        "email": "veronica.ocampo@hotmail.com",
+        "edad": 27,
+        "residencia": "Alajuela"
+    },
+    {
+        "nombre": "Matteo Bianchi",
+        "telefono": "88123461",
+        "email": "matteo.bianchi@yahoo.com",
+        "edad": 26,
+        "residencia": "extranjero"
+    },
+    {
+        "nombre": "Lucas Ferreira",
+        "telefono": "88123462",
+        "email": "lucas.ferreira@icloud.com",
+        "edad": 24,
+        "residencia": "extranjero"
+    },
+    {
+        "nombre": "Thiago Morel",
+        "telefono": "88123463",
+        "email": "thiago.morel@anglo.ed.cr",
+        "edad": 29,
+        "residencia": "extranjero"
+    },
+    {
+        "nombre": "Valentina Rossi",
+        "telefono": "88123464",
+        "email": "valentina.rossi@ulead.ac.cr",
+        "edad": 23,
+        "residencia": "extranjera"
+    },
+    {
+        "nombre": "Emma Dubois",
+        "telefono": "88123465",
+        "email": "emma.dubois@gmail.com",
+        "edad": 21,
+        "residencia": "extranjera"
+    },
+    {
+        "nombre": "Daniel Porras",
+        "telefono": "88123466",
+        "email": "daniel.porras@outlook.com",
+        "edad": 28,
+        "residencia": "San José"
+    },
+    {
+        "nombre": "Laura Benavides",
+        "telefono": "88123467",
+        "email": "laura.benavides@hotmail.com",
+        "edad": 22,
+        "residencia": "Heredia"
+    },
+    {
+        "nombre": "Miguel Ángel Rivas",
+        "telefono": "88123468",
+        "email": "miguelangel.rivas@yahoo.com",
+        "edad": 31,
+        "residencia": "Cartago"
+    },
+    {
+        "nombre": "Catherine Naranjo",
+        "telefono": "88123469",
+        "email": "catherine.naranjo@icloud.com",
+        "edad": 24,
+        "residencia": "Puntarenas"
+    },
+    {
+        "nombre": "Adrián Moya",
+        "telefono": "88123470",
+        "email": "adrian.moya@anglo.ed.cr",
+        "edad": 27,
+        "residencia": "Alajuela"
+    }
+]
